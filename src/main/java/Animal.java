@@ -34,3 +34,4 @@ public static int swim;
         Animal.swim = swim;
     }
 }
+
